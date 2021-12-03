@@ -1,0 +1,131 @@
+body{
+	max-width: 1500px;
+	font-family: sans-serif;
+}
+.div1{
+	
+	width: 1494px;
+	background-color: black;
+	border:none;
+	height: 40px;
+	position: fixed;
+	margin-right: 10px;
+	margin-left: 10px;
+	float: left;
+	
+}
+input[type=submit]{
+	float: left;
+	display: inline;
+	text-align: center;
+	padding:10px 7px 10px 7px;
+	width: 6%;
+	border:none;
+	background-color: black;
+	color:white;
+	height: 40px;
+	cursor: pointer;
+	font-size: 20px;
+}
+label{
+	float: left;
+	display: inline;
+	text-align: center;
+	padding:10px 7px 10px 7px;
+	width: 20%;
+	border:none;
+	color:white;
+	height: 40px;
+	font-size: 20px;
+}
+input[type=submit]:hover{
+	background-color: green;
+}
+.inputbootstrap{
+	background-color:  #92a8d1;
+}
+.inputbootstrap:hover{
+	background-color:  lightblue;
+}
+.bootstraptop{
+	
+	border:none;
+	text-transform: capitalize;
+	height: 40px;
+	float: left;
+	display: inline;
+	width: 1340px;
+	background-color: rgb(12 10 52 / 76%);
+	color: white;
+	margin-left: 80px;
+	margin-right: 200px;
+
+}
+.bootstrapcontent{
+	height: 500px;
+	border-left: 1px solid black;
+	width: 1340px;
+	margin-left: 80px;
+	margin-right: 200px;
+	line-height: 0.1;
+}
+
+
+
+
+.divleftbutton{
+	height: 40px;
+	background-color: rgb(12 10 52 / 76%);
+	
+}
+.divleftbutton > input{
+	float: right;
+	display: inline;
+	width:6%;
+	background-color: rgb(12 10 52 / 76%);
+	text-align: center;
+	height: 40px;
+}
+.divleftbutton > input:hover{
+	background-color: lightblue;
+	
+
+}
+
+
+
+
+/*inputbutton{
+	float: right;
+	display: inline;
+	width:25%;
+	}
+.inputbutton:hover{
+	background-color: lightblue;
+
+}
+.inputbutton{
+	float: right;
+	display: inline;
+	width:25%;
+	}
+.inputbutton:hover{
+	background-color: lightblue;
+
+}
+*/
+input[type=text]
+{
+	width: 900px;
+	border-bottom: 1px solid lightgray;
+	border-left: none;
+	border-right: none;
+	border-top: none;
+	margin-right: 80px;
+	margin-left: 240px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	font-size: 25px;
+	color:black;
+	height: 60px;
+}

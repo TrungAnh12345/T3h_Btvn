@@ -1,0 +1,131 @@
+body{
+	
+	
+	
+}
+
+.container{
+	 
+   	
+    margin-top: 100px;
+    background-color: #f5f5dd;
+    width: 97%;
+    height: 520px;
+    border-radius: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+    
+
+
+
+
+.row1-1{
+	
+	padding-left: 15px;
+	padding-top: 15px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	float: left;
+	line-height: 1.7;
+
+
+}
+
+.row1-2{
+	padding-bottom: 10px;
+	padding-top: 15px;
+	
+	padding-left: 10px;
+	line-height: 1.7;
+	float: left;
+
+}
+.row2{
+	
+	margin-top: 20px;
+	padding-left: 15px;
+	float: left;
+	line-height: 1.7;
+
+}
+.row3
+{
+	
+	margin-top: 20px;
+	padding-left: 15px;
+	float: left;
+	line-height: 1.7;
+
+}
+.row4-1{
+	margin-top: 20px;
+	padding-left: 15px;
+	float: left;
+	line-height: 1.7;
+}
+.row4-2{
+	margin-top: 20px;
+	margin-left: 15px;
+	float: left;
+	line-height: 1.7;
+}
+.row4-3{
+	margin-top: 19px;
+	padding-left: 15px;
+	float: left;
+	line-height: 1.7;
+}
+
+.row5{
+	margin-top: 20px;
+	padding-left: 15px;
+	float: left;
+	line-height: 1.7;
+	width: 1400px;
+
+}
+.row6{
+	width: 1440px;
+	border: none;
+	float: left;
+	
+
+}
+input[type=text], input[type=password]
+{
+	height: 50px;
+	border-radius: 5px;
+	border: none;
+	padding-right: 10px;
+}
+
+select{
+	border: 1px solid black ;
+	
+	margin-left: 4px;
+	border: none;
+	height: 50px;
+	width: 200px;
+	border-radius: 5px;
+
+}
+
+
+ input[type=submit]
+ {
+ 	border: 1px solid black;
+ 	background-color: green;
+ 	width: 100px;
+ 	text-align: center;
+ 	height:40px;
+ 	line-height: 1.7;
+ 	border-radius: 5px;
+ 	margin-left: 15px;
+ 	margin-top: 20px;
+ 	font-size: 20px;
+ }
+ input[type=submit]:hover{
+ 	background-color: lightblue;
+ }
