@@ -1,0 +1,146 @@
+.container{
+	float: left;
+	padding-left: 30px;
+	font-family: sans-serif;
+	background-color: lightgray;
+	width: 100%;
+	height: 440px;
+	box-sizing: border-box;
+	
+}
+.row1{
+	padding-top: 40px;
+	width: inherit;
+	padding-left: none;
+	float: left;
+	padding-left: none;
+	
+}
+.content{
+	width: inherit;
+	display: inline;
+	float: left;
+	display: flex;
+	font-size: 18px;
+	line-height: 1.8;
+	border: 1px solid black
+	margin-top: none;
+}
+.row2-1{
+   width: 33.33%;
+ }
+.row2-2{
+	width: 33.33%;
+	margin-top: none:;
+	padding-top: none;
+	border-left: 1px solid gray;
+	border-right: 1px solid gray;
+	
+	padding-left: 10px;
+
+	
+}
+.row2-3{
+	width: 33.33%;
+	padding-left: 10px;
+	
+}
+/*.content2{
+	margin-top: 30px;
+	width: inherit;
+	display: inline;
+	float: left;
+	display: flex;
+	font-size: 14px;
+	padding-top: 30px;
+	border-top: 1px solid gray;
+	padding-left: none;
+	margin-right: none;
+	border-bottom: 1px solid gray;
+	padding-bottom: 20px;
+	border: 1px solid black;
+	
+}*/
+.content2{
+	width: 100%;
+	display: inline;
+	float: left;
+	display: flex;
+	font-size: 14px;
+	padding-top: none;
+	padding-left: 30px;
+	margin-right: none;
+	padding-bottom: 20px;
+	border-width: 100%;
+	border-top: 1px solid lightblue;
+	font-family: sans-serif;
+	
+	
+	
+}
+.col1{
+   width: 20%;
+
+}
+.col2{
+	width: 15%;
+}
+.col3{
+	width: 40%;
+	padding-left: 100px;
+}
+.col4{
+	width: 30%;
+	padding-right: 50px;
+	padding-top: none;
+
+
+}
+.col4 > p {
+	display: inline;
+}
+input[type=text]
+{	width: 70%;
+	border: none;
+	margin-bottom: 20px;
+	padding:none;
+	border-bottom: 1px solid gray;
+	background-color: lightgray;
+}	
+input[type=submit]{
+	width: 10%;
+	height: 30px;
+	color:white;
+	background-color: gray;
+	display: block;
+}
+img{
+	width: 40px;
+	height: 40px;
+	display: inline;
+	border:none;
+	background-color: lightgray;
+	padding-top: none;
+}
+
+.footerr{
+	width: 100%;
+	text-align: center;
+	border-top: : 1px solid black;
+	background-color: lightgray;
+	font-family: sans-serif;
+	padding-top: 700px;
+	padding-bottom: 20px;
+
+}
+a{
+	display: inline;
+	text-decoration: none;
+	color:black;
+}
+	
+	
+	
+	
+
+	
